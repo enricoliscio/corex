@@ -2,7 +2,7 @@
 
 Simple Jupyter Notebook to use the CorEx semi-supervised clustering algorithm, inspired by [this example](https://gist.github.com/patrickvankessel/0d5bd690910edece831dbdf32fb2fb2d).
 
-Find the original paper [here](https://www.aclweb.org/anthology/Q17-1037/).
+Here you can find [paper](https://www.aclweb.org/anthology/Q17-1037/) and [source code](https://github.com/gregversteeg/corex_topic).
 
 ## Usage
 
